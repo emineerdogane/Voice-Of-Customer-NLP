@@ -1,7 +1,15 @@
 # Voice of Customer - Automated Review Categorization System
 
+## 📊 Demo
+
+![Dashboard Demo](screenshots/dashboard-demo.gif)
+
+*Interactive dashboard for exploring user review topics and trends*
+
+---
+
 ## Project Overview
-An NLP pipeline that transforms unstructured app reviews into actionable product insights using BERTopic for topic modeling. This system clusters 5,000+ user reviews into meaningful categories (Bugs, Feature Requests, UI/UX issues) and provides a real-time dashboard for Product Managers.
+An NLP pipeline that transforms unstructured app reviews into actionable product insights using topic modeling. This system clusters 5,000+ user reviews into meaningful categories (Bugs, Feature Requests, UI/UX issues) and provides a real-time dashboard for analysis.
 
 ## Key Features
 - **Automated Data Collection**: Scrapes 5,000+ reviews from Google Play Store
