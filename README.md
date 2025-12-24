@@ -68,9 +68,6 @@ streamlit run app.py
 - **Trend Analysis**: Track how topics evolve over time
 - **Export Capabilities**: Download filtered results for engineering teams
 
-## Resume Bullet Point
-*"Engineered an NLP pipeline using BERTopic to cluster 5,000+ user reviews into actionable product categories (Bugs, UI, Billing); deployed a Streamlit web app allowing Product Managers to track feature-request sentiment in real-time."*
-
 ## Key Insights
 This project demonstrates:
 - Ability to work with messy, unstructured text data
@@ -84,8 +81,10 @@ This project demonstrates:
 - Integration with JIRA/Linear for ticket creation
 - Competitive analysis (compare multiple apps)
 
-## Author
-Emine - Data Science Portfolio Project
+## 📫 Contact
+
+- **GitHub:** [@emineerdogane](https://github.com/emineerdogane)
+- **LinkedIn:** [Emine Erdogan](https://www.linkedin.com/in/emine-erdogan/)
 
 ## License
 MIT
